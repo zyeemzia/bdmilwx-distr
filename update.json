@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 3,
+  "versionName": "1.0.2",
   "apkUrl": "https://github.com/zyeemzia/bdmilwx-distr/releases/download/v1.0.1/bdmilwx.apk",
   "changeLog": "- Restored legacy BAF radar domains\n- Upgraded UI theme memory\n- Enhanced GPS failsafes"
 }
