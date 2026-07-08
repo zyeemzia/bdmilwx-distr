@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/zyeemzia/bdmilwx-distr/releases/download/v1.0.2/bdmw.apk",
-  "changeLog": "- Restored legacy BAF radar domains.\n- Upgraded UI theme memory.\n- Enhanced GPS failsafes."
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/zyeemzia/bdmilwx-distr/releases/download/v1.0.3/bdmw.apk",
+  "changeLog": "- Deployed 7-Day Tactical Forecast with offline caching.\n- Added live Density Altitude & Barometric Trends.\n- Integrated advanced Lunar Ephemeris (BMNT/EENT).\n- Hardened Tactical Suite Ecosystem against server timeouts."
 }
