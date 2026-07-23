@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
+  "versionCode": 6,
+  "versionName": "1.0.5",
   "apkUrl": "https://github.com/zyeemzia/bdmilwx-distr/releases/download/v1.0.4/bdmw.apk",
   "changeLog": "- Deployed 7-Day Tactical Forecast with offline caching.\n- Added live Density Altitude & Barometric Trends.\n- Integrated advanced Lunar Ephemeris (BMNT/EENT).\n- Hardened Tactical Suite Ecosystem against server timeouts."
 }
