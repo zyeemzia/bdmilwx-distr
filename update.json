@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "apkUrl": "https://github.com/zyeemzia/bdmilwx-distr/releases/download/v1.0.5/bdmw.apk",
-  "changeLog": "- Deployed 7-Day Tactical Forecast with offline caching.\n- Added live Density Altitude & Barometric Trends.\n- Integrated advanced Lunar Ephemeris (BMNT/EENT).\n- Hardened Tactical Suite Ecosystem against server timeouts."
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/zyeemzia/bdmilwx-distr/releases/download/v1.0.6/bdmw.apk",
+  "changeLog": "- Monsoon Shield, Dynamic triple-engine 7-day tactical forecast architecture.\n- Added live Density Altitude & Barometric Trends.\n- Integrated advanced Lunar Ephemeris (BMNT/EENT).\n- Hardened Tactical Suite Ecosystem against server timeouts."
 }
