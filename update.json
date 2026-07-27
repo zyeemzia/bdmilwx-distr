@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/zyeemzia/bdmilwx-distr/releases/download/v1.0.7/bdmw.apk",
-  "changeLog": "- Monsoon shield, Dynamic triple-engine 7-day tactical forecast architecture.\n- Added live density altitude & barometric trends.\n- Integrated advanced lunar ephemeris (BMNT/EENT).\n- Hardened tactical suite ecosystem against server timeouts.\n- Integrated a tactical engine mini-toggle button inside the 7-day forecast sheet. 26 Jul 2026."
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/zyeemzia/bdmilwx-distr/releases/download/v1.0.8/bdmw.apk",
+  "changeLog": "- Deployed Monsoon Shield with a dynamic Triple-Engine 7-day tactical forecast architecture.\n- Injected Kinetic Threat Telemetry to reveal exact rain probability and volume metrics.\n- Re-engineered core data parsers for 10x faster intelligence extraction with zero UI lag.\n- Integrated a tactical engine mini-toggle button inside the 7-day forecast sheet.\n- Added live Density Altitude computations & Barometric Trend tracking.\n- Integrated advanced Observatory Lunar Ephemeris (BMNT/EENT).\n- Hardened the tactical ecosystem with instant-kill failsafes to eliminate silent offline failures. 27 Jul 2026."
 }
