@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/zyeemzia/bdmilwx-distr/releases/download/v1.0.8/bdmw.apk",
-  "changeLog": "- Deployed Monsoon Shield with a dynamic Triple-Engine 7-day tactical forecast architecture.\n- Injected Kinetic Threat Telemetry to reveal exact rain probability and volume metrics.\n- Re-engineered core data parsers for 10x faster intelligence extraction with zero UI lag.\n- Integrated a tactical engine mini-toggle button inside the 7-day forecast sheet.\n- Added live Density Altitude computations & Barometric Trend tracking.\n- Integrated advanced Observatory Lunar Ephemeris (BMNT/EENT).\n- Hardened the tactical ecosystem with instant-kill failsafes to eliminate silent offline failures. 27 Jul 2026."
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/zyeemzia/bdmilwx-distr/releases/download/v1.0.9/bdmw.apk",
+  "changeLog": "- NEW Cyclone Intel: live maritime signal + official BAF cyclone outlook rendered in-app.\n- ENV DATA rebuilt: next-light countdown, moon up/down & night-light rating, density altitude cautions, smart METAR/model sourcing, terrain elevation.\n- Offline astro engine: BMNT/EENT, sun & moon times computed on-device, work without network.\n- Smarter GPS fallback and Windy map no longer resets on refresh.\n- Accurate moon phase & illumination; WMO 3-hour pressure tendency.\n- Redesigned 7-day Tactical Forecast deck: hero card, threat briefing, 24h temperature curve, expandable day intel, condition grid.\n- Smart daily consensus: a brief drizzle no longer flags a whole day as rain. MET ZINT fixed for GPS & thunderstorms.\n- Tactical Suite updated: BD MIL GADGET, BD MIL OFFICE, BD MIL Morse Code, Military Gadget & Military Morse Code added with live version badges.\n- Fixed sun & moon data after midnight; faster parallel sync, offline cache, crash-proofing. 20 Oct 2026."
 }
